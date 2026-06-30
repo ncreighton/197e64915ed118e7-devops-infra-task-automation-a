@@ -1,0 +1,2 @@
+# 197e64915ed118e7-devops-infra-task-automation-a
+The devops infra tool you'd build yourself — if you had the time.  Privacy-first: all processing stays local, no data sent to third-party servers. Under 1MB. Zero performance impact on browser speed.  ## What's Included  - Devops Infra Task Automation And Delegation — fully configured and ready to use - One-click activation directly from the browse
